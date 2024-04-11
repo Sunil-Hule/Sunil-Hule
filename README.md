@@ -59,5 +59,4 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=looker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
