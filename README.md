@@ -16,8 +16,8 @@
 
 - 👨🏽‍💻 I’m interested in data science, Machine Learning learning, NLP, AI and more.
 - 💬 Ask me about anything, I am happy to help.
-- [📫](mailto:sunilh1@umbc.edu) 👈 Send me an email if you want to reach me out!.
-- [📝](https://efthimiosvlahos-github-io.vercel.app/about) 👈 Here you cand find my résumé.
+- [📫](mailto:sunilhule4444@gmail.com) 👈 Send me an email if you want to reach me out!.
+- [📝](https://efthimiosvlahos-github-io.vercel.app/about) 👈 Here you can find my résumé.
 
 
 <br/>
@@ -37,7 +37,7 @@
 
 ### 🌐 Portfolio and Contributions:
 - [LinkedIn](https://www.linkedin.com/in/sunilhule/)
-- [Portfolio Website](https://efthimiosvlahos-github-io.vercel.app/)
+- [Portfolio Website](https://www.datascienceportfol.io/sunilhule)
 - [LeetCode](https://leetcode.com/sunilhule4444/)
 
 ---
