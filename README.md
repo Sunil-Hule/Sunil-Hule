@@ -17,7 +17,7 @@
 - 👨🏽‍💻 I’m interested in data science, Machine Learning learning, NLP, AI and more.
 - 💬 Ask me about anything, I am happy to help.
 - [📫](mailto:sunilhule4444@gmail.com) 👈 Send me an email if you want to reach me out!.
-- [📝]([https://drive.google.com/file/d/1_vUwhNnIqGPY2McAVZdpmYHyAbzQZLDl/view?usp=sharing]) 👈 Here you can find my résumé.
+- [📝](https://drive.google.com/file/d/1_vUwhNnIqGPY2McAVZdpmYHyAbzQZLDl/view?usp=sharing) 👈 Here you can find my résumé.
 
 
 <br/>
